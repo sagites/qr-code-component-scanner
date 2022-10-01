@@ -40,6 +40,8 @@ body{
     font-size: larger;
     font-display:center;
     color:  hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
     
 }
 .bod{
@@ -47,6 +49,8 @@ body{
     justify-content: center;
     color: hsl(220, 15%, 55%);
     font-size: 0.9375rem;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
 }
 @media screen and (min-width:375px) {
     body{
